@@ -6,7 +6,8 @@
 
 <div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violiveiradev&repo=curso-basico-java&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/violiveiradev/curso-basico-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violiveiradev&repo=curso-basico-java&show_icons=true&theme=github_dark&)](https://github.com/violiveiradev/curso-basico-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violiveiradev&repo=viniciusoliveira.dev&show_icons=true&theme=github_dark&)](https://github.com/violiveiradev/viniciusoliveira.dev)
 
 </div>
  
