@@ -4,12 +4,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violiveiradev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<div>
-
+<!--<div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violiveiradev&repo=curso-basico-java&show_icons=true&theme=github_dark&)](https://github.com/violiveiradev/curso-basico-java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violiveiradev&repo=viniciusoliveira.dev&show_icons=true&theme=github_dark&)](https://github.com/violiveiradev/viniciusoliveira.dev)
-
-</div>
+</div>-->
  
 <div>
  
