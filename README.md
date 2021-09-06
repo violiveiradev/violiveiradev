@@ -5,6 +5,12 @@
 </div>
 
 <div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violiveiradev&repo=github-readme-stats)](https://github.com/violiveiradev/github-readme-stats)
+
+</div>
+ 
+<div>
  
   ![Snake animation](https://github.com/violiveiradev/violiveiradev/blob/output/github-contribution-grid-snake.svg)
  
