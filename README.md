@@ -7,10 +7,10 @@
 <!--<div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violiveiradev&repo=curso-basico-java&show_icons=true&theme=github_dark&)](https://github.com/violiveiradev/curso-basico-java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violiveiradev&repo=viniciusoliveira.dev&show_icons=true&theme=github_dark&)](https://github.com/violiveiradev/viniciusoliveira.dev)
-</div>-->
+</div>
  
 <div>
  
   ![Snake animation](https://github.com/violiveiradev/violiveiradev/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div>-->
